@@ -4,5 +4,5 @@ ThisBuild / scalaVersion := "3.0.0"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "untitled"
+    name := "Scala_From_Scratch"
   )
